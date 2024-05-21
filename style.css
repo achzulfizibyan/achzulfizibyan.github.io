@@ -1,0 +1,15 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #bed9be;
+}
+
+.col-md-8 a {
+  text-decoration: none;
+}
+
+#project {
+  background-color: #bed9be;
+}
+section {
+  padding-top: 5rem;
+}
